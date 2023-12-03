@@ -9,5 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Creating Resources in Azure](https://github.com/dhazard505/Create-Azure-Resources)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
- <b>CompTIA Labs</b>
-    [Lab 1: Configure a SOHO Router](https://github.com/joshmadakorcc/osticket-prereqs)
+- <b>CompTIA Labs</b>
+  - [Lab 1: Configure a SOHO Router](https://github.com/joshmadakorcc/osticket-prereqs)

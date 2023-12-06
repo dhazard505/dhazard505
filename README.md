@@ -10,4 +10,4 @@
   - [Creating Resources in Azure](https://github.com/dhazard505/Create-Azure-Resources)
   - [Azure Active Directory Lab](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>CompTIA Labs</b>
-  - [Lab 1: Configure a SOHO Router](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [CompTIA Network+ Labs](https://github.com/dhazard505/CompTIA-NetPlus-Labs.git)

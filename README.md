@@ -11,3 +11,5 @@
   - [Azure Active Directory Lab](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>CompTIA Labs</b>
   - [CompTIA Network+ Labs](https://github.com/dhazard505/CompTIA-NetPlus-Labs.git)
+  - [CompTIA Security+ Labs](https://github.com/dhazard505/CompTIA-NetPlus-Labs.git)
+

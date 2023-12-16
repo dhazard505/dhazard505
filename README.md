@@ -7,5 +7,5 @@
   - [Azure Active Directory Lab](https://github.com/dhazard505/Active-Director-Lab.git)
 - <b>CompTIA Labs</b>
   - [CompTIA Network+ Labs](https://github.com/dhazard505/CompTIA-NetPlus-Labs.git)
-  - [CompTIA Security+ Labs](https://github.com/dhazard505/CompTIA-NetPlus-Labs.git)
+  - [CompTIA Security+ Labs](https://github.com/dhazard505/CompTIA-SecPlus-Labs)
 

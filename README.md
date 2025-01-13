@@ -5,9 +5,13 @@
 - <b>Microsoft Azure</b>
   - [Creating Resources in Azure](https://github.com/dhazard505/Create-Azure-Resources)
   - [Azure Active Directory Lab](https://github.com/dhazard505/Active-Director-Lab.git)
+
 - <b>CompTIA Labs</b>
   - [CompTIA Network+ Labs](https://github.com/dhazard505/CompTIA-NetPlus-Labs.git)
   - [CompTIA Security+ Labs](https://github.com/dhazard505/CompTIA-SecPlus-Labs)
 
 - <b>Window Server 2019</b>
   - [Active Directory Lab](https://github.com/dhazard505/Active-Directory-Project)
+
+- <b>Cybersecurity Labs</b>
+  - [Creating a Security Operations Center in Microsoft Azure](https://github.com/dhazard505/CyberSecLab)
